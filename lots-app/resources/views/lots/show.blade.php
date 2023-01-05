@@ -1,0 +1,14 @@
+<table>
+    <tbody>
+      <tr>
+        <td>ID</td>
+        <td>title</td>
+        <td>desc</td>
+      </tr>
+      <tr>
+        <td>{{$lot->id}}</td>
+        <td>{{$lot->title}}</td>
+        <td>{{$lot->description}}</td>
+      </tr>
+    </tbody>
+  </table>

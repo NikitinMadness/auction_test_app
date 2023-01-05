@@ -1,0 +1,12 @@
+<table>
+    <tbody>
+        <tr>
+        <td>ID</td>
+        <td>Назва</td>
+        </tr>
+        <tr>
+        <td>{{$category->id}}</td>
+        <td>{{$category->title}}</td>
+        </tr>
+    </tbody>
+</table>
